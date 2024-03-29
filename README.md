@@ -24,8 +24,6 @@
 <div align="center">
   <h2>🚀 Github Berkomitmen</h2>
     <p>Bagian ini menyoroti aktivitas harian saya, menampilkan repositori yang sedang saya kerjakan. Setiap komitmen mewakili kemajuan atau perbaikan pada proyek yang sedang berjalan, mencerminkan komitmen saya terhadap perbaikan berkelanjutan dan pengembangan kolaboratif. Selami pesan komit untuk mendapatkan wawasan tentang apa yang telah saya lakukan!</p>
-  <img src="https://raw.githubusercontent.com/Rimpichu/Rimpichu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/Rimpichu/Rimpichu/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Bahasa pemrograman</h2>
